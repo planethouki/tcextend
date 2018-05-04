@@ -1,0 +1,6 @@
+BiomeExtends: JungleHills
+ResourceInheritance: true
+ReplaceToBiomeName: JungleHills
+BiomeColor: #162102
+BiomeHeight: -3.9
+SmoothRadius: 5

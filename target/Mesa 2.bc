@@ -1,0 +1,6 @@
+BiomeExtends: Mesa
+ResourceInheritance: true
+ReplaceToBiomeName: Mesa
+BiomeColor: #e47c5b
+BiomeHeight: 2
+SmoothRadius: 5

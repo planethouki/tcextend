@@ -1,0 +1,6 @@
+BiomeExtends: Ice Plains Spikes
+ResourceInheritance: true
+ReplaceToBiomeName: Ice Plains Spikes
+BiomeColor: #aecaca
+BiomeHeight: 2
+SmoothRadius: 5

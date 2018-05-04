@@ -1,0 +1,6 @@
+BiomeExtends: ForestHills
+ResourceInheritance: true
+ReplaceToBiomeName: ForestHills
+BiomeColor: #648860
+BiomeHeight: 2
+SmoothRadius: 5

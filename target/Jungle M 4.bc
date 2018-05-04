@@ -1,0 +1,6 @@
+BiomeExtends: Jungle M
+ResourceInheritance: true
+ReplaceToBiomeName: Jungle M
+BiomeColor: #a5b784
+BiomeHeight: 4
+SmoothRadius: 5

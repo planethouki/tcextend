@@ -1,0 +1,62 @@
+Beach
+Birch Forest Hills M
+Birch Forest Hills
+Birch Forest M
+Birch Forest
+Cold Beach
+Cold Taiga Hills
+Cold Taiga M
+Cold Taiga
+Deep Ocean
+Desert M
+Desert
+DesertHills
+Extreme Hills Edge
+Extreme Hills M
+Extreme Hills+ M
+Extreme Hills+
+Extreme Hills
+Flower Forest
+Forest
+ForestHills
+FrozenOcean
+FrozenRiver
+Hell
+Ice Mountains
+Ice Plains Spikes
+Ice Plains
+Jungle M
+Jungle
+JungleEdge M
+JungleEdge
+JungleHills
+Mega Spruce Taiga Hills
+Mega Spruce Taiga
+Mega Taiga Hills
+Mega Taiga
+Mesa (Bryce)
+Mesa Plateau F M
+Mesa Plateau F
+Mesa Plateau M
+Mesa Plateau
+Mesa
+MushroomIsland
+MushroomIslandShore
+Ocean
+Plains
+River
+Roofed Forest M
+Roofed Forest
+Savanna M
+Savanna Plateau M
+Savanna Plateau
+Savanna
+Sky
+Stone Beach
+Sunflower Plains
+Swampland M
+Swampland
+Taiga M
+Taiga
+TaigaHills
+The Void

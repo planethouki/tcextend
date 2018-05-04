@@ -1,0 +1,6 @@
+BiomeExtends: Extreme Hills M
+ResourceInheritance: true
+ReplaceToBiomeName: Extreme Hills M
+BiomeColor: #292929
+BiomeHeight: -3.9
+SmoothRadius: 5

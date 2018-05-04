@@ -1,0 +1,6 @@
+BiomeExtends: Birch Forest Hills M
+ResourceInheritance: true
+ReplaceToBiomeName: Birch Forest Hills M
+BiomeColor: #184024
+BiomeHeight: -0.9
+SmoothRadius: 5

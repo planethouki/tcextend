@@ -1,0 +1,6 @@
+BiomeExtends: Birch Forest
+ResourceInheritance: true
+ReplaceToBiomeName: Birch Forest
+BiomeColor: #82ab8e
+BiomeHeight: 3
+SmoothRadius: 5

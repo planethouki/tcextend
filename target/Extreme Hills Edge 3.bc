@@ -1,0 +1,6 @@
+BiomeExtends: Extreme Hills Edge
+ResourceInheritance: true
+ReplaceToBiomeName: Extreme Hills Edge
+BiomeColor: #aaaec2
+BiomeHeight: 3
+SmoothRadius: 5

@@ -1,0 +1,6 @@
+BiomeExtends: Beach
+ResourceInheritance: true
+ReplaceToBiomeName: Beach
+BiomeColor: #fceb99
+BiomeHeight: 3
+SmoothRadius: 5

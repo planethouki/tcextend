@@ -1,0 +1,6 @@
+BiomeExtends: Ice Plains
+ResourceInheritance: true
+ReplaceToBiomeName: Ice Plains
+BiomeColor: #999999
+BiomeHeight: -2.9
+SmoothRadius: 5

@@ -1,0 +1,6 @@
+BiomeExtends: The Void
+ResourceInheritance: true
+ReplaceToBiomeName: The Void
+BiomeColor: #dae7ff
+BiomeHeight: 4
+SmoothRadius: 5

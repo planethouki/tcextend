@@ -1,0 +1,6 @@
+BiomeExtends: Cold Taiga M
+ResourceInheritance: true
+ReplaceToBiomeName: Cold Taiga M
+BiomeColor: #6c847d
+BiomeHeight: 2
+SmoothRadius: 5

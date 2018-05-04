@@ -1,0 +1,6 @@
+BiomeExtends: Deep Ocean
+ResourceInheritance: true
+ReplaceToBiomeName: Deep Ocean
+BiomeColor: #4c4c6e
+BiomeHeight: 2
+SmoothRadius: 5

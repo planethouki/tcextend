@@ -1,0 +1,6 @@
+BiomeExtends: Forest
+ResourceInheritance: true
+ReplaceToBiomeName: Forest
+BiomeColor: #69a379
+BiomeHeight: 3
+SmoothRadius: 5

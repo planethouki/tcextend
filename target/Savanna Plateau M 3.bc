@@ -1,0 +1,6 @@
+BiomeExtends: Savanna Plateau M
+ResourceInheritance: true
+ReplaceToBiomeName: Savanna Plateau M
+BiomeColor: #c1bc9d
+BiomeHeight: 3
+SmoothRadius: 5

@@ -1,0 +1,6 @@
+BiomeExtends: Ocean
+ResourceInheritance: true
+ReplaceToBiomeName: Ocean
+BiomeColor: #32328c
+BiomeHeight: 1
+SmoothRadius: 5

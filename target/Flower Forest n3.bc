@@ -1,0 +1,6 @@
+BiomeExtends: Flower Forest
+ResourceInheritance: true
+ReplaceToBiomeName: Flower Forest
+BiomeColor: #1b552b
+BiomeHeight: -2.9
+SmoothRadius: 5

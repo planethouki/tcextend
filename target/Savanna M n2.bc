@@ -1,0 +1,6 @@
+BiomeExtends: Savanna M
+ResourceInheritance: true
+ReplaceToBiomeName: Savanna M
+BiomeColor: #3f590e
+BiomeHeight: -1.9
+SmoothRadius: 5

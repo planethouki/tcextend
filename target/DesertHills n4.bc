@@ -1,0 +1,6 @@
+BiomeExtends: DesertHills
+ResourceInheritance: true
+ReplaceToBiomeName: DesertHills
+BiomeColor: #692f09
+BiomeHeight: -3.9
+SmoothRadius: 5

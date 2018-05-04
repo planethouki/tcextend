@@ -1,0 +1,6 @@
+BiomeExtends: FrozenOcean
+ResourceInheritance: true
+ReplaceToBiomeName: FrozenOcean
+BiomeColor: #737380
+BiomeHeight: -0.9
+SmoothRadius: 5

@@ -1,0 +1,6 @@
+BiomeExtends: MushroomIslandShore
+ResourceInheritance: true
+ReplaceToBiomeName: MushroomIslandShore
+BiomeColor: #8000cc
+BiomeHeight: -0.9
+SmoothRadius: 5

@@ -1,0 +1,6 @@
+BiomeExtends: Mesa Plateau
+ResourceInheritance: true
+ReplaceToBiomeName: Mesa Plateau
+BiomeColor: #654632
+BiomeHeight: -3.9
+SmoothRadius: 5

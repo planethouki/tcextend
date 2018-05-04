@@ -1,0 +1,6 @@
+BiomeExtends: Savanna Plateau
+ResourceInheritance: true
+ReplaceToBiomeName: Savanna Plateau
+BiomeColor: #c1ba92
+BiomeHeight: 2
+SmoothRadius: 5

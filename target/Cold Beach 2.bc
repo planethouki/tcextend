@@ -1,0 +1,6 @@
+BiomeExtends: Cold Beach
+ResourceInheritance: true
+ReplaceToBiomeName: Cold Beach
+BiomeColor: #fbf4d2
+BiomeHeight: 2
+SmoothRadius: 5

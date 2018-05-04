@@ -1,0 +1,6 @@
+BiomeExtends: JungleEdge M
+ResourceInheritance: true
+ReplaceToBiomeName: JungleEdge M
+BiomeColor: #8ba65b
+BiomeHeight: 2
+SmoothRadius: 5

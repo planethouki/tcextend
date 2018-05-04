@@ -1,0 +1,6 @@
+BiomeExtends: Mesa (Bryce)
+ResourceInheritance: true
+ReplaceToBiomeName: Mesa (Bryce)
+BiomeColor: #e6663c
+BiomeHeight: 0
+SmoothRadius: 5

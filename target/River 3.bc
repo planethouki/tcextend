@@ -1,0 +1,6 @@
+BiomeExtends: River
+ResourceInheritance: true
+ReplaceToBiomeName: River
+BiomeColor: #6666ff
+BiomeHeight: 3
+SmoothRadius: 5

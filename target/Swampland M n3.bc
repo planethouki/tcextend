@@ -1,0 +1,6 @@
+BiomeExtends: Swampland M
+ResourceInheritance: true
+ReplaceToBiomeName: Swampland M
+BiomeColor: #187e5f
+BiomeHeight: -2.9
+SmoothRadius: 5

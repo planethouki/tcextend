@@ -1,0 +1,6 @@
+BiomeExtends: Mega Taiga Hills
+ResourceInheritance: true
+ReplaceToBiomeName: Mega Taiga Hills
+BiomeColor: #30372b
+BiomeHeight: -1.9
+SmoothRadius: 5

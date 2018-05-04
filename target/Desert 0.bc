@@ -1,0 +1,6 @@
+BiomeExtends: Desert
+ResourceInheritance: true
+ReplaceToBiomeName: Desert
+BiomeColor: #fa9e2f
+BiomeHeight: 0
+SmoothRadius: 5

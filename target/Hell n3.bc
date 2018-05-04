@@ -1,0 +1,6 @@
+BiomeExtends: Hell
+ResourceInheritance: true
+ReplaceToBiomeName: Hell
+BiomeColor: #990000
+BiomeHeight: -2.9
+SmoothRadius: 5

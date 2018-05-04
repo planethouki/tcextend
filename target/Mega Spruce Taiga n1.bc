@@ -1,0 +1,6 @@
+BiomeExtends: Mega Spruce Taiga
+ResourceInheritance: true
+ReplaceToBiomeName: Mega Spruce Taiga
+BiomeColor: #677160
+BiomeHeight: -0.9
+SmoothRadius: 5

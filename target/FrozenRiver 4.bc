@@ -1,0 +1,6 @@
+BiomeExtends: FrozenRiver
+ResourceInheritance: true
+ReplaceToBiomeName: FrozenRiver
+BiomeColor: #cfcfff
+BiomeHeight: 4
+SmoothRadius: 5

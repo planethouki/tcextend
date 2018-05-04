@@ -1,0 +1,6 @@
+BiomeExtends: Roofed Forest M
+ResourceInheritance: true
+ReplaceToBiomeName: Roofed Forest M
+BiomeColor: #868e73
+BiomeHeight: 3
+SmoothRadius: 5

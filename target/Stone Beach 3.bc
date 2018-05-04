@@ -1,0 +1,6 @@
+BiomeExtends: Stone Beach
+ResourceInheritance: true
+ReplaceToBiomeName: Stone Beach
+BiomeColor: #c7c7b5
+BiomeHeight: 3
+SmoothRadius: 5

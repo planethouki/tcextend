@@ -1,0 +1,6 @@
+BiomeExtends: Sky
+ResourceInheritance: true
+ReplaceToBiomeName: Sky
+BiomeColor: #bfbfff
+BiomeHeight: 4
+SmoothRadius: 5

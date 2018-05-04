@@ -1,0 +1,6 @@
+BiomeExtends: Plains
+ResourceInheritance: true
+ReplaceToBiomeName: Plains
+BiomeColor: #bad19f
+BiomeHeight: 3
+SmoothRadius: 5

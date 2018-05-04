@@ -1,0 +1,6 @@
+BiomeExtends: Sunflower Plains
+ResourceInheritance: true
+ReplaceToBiomeName: Sunflower Plains
+BiomeColor: #e1ff19
+BiomeHeight: 0
+SmoothRadius: 5

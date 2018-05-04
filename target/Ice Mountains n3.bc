@@ -1,0 +1,6 @@
+BiomeExtends: Ice Mountains
+ResourceInheritance: true
+ReplaceToBiomeName: Ice Mountains
+BiomeColor: #606060
+BiomeHeight: -2.9
+SmoothRadius: 5

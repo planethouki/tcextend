@@ -1,0 +1,6 @@
+BiomeExtends: Desert M
+ResourceInheritance: true
+ReplaceToBiomeName: Desert M
+BiomeColor: #894e04
+BiomeHeight: -2.9
+SmoothRadius: 5

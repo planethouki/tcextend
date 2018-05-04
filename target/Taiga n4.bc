@@ -1,0 +1,6 @@
+BiomeExtends: Taiga
+ResourceInheritance: true
+ReplaceToBiomeName: Taiga
+BiomeColor: #05332c
+BiomeHeight: -3.9
+SmoothRadius: 5

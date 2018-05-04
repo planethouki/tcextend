@@ -1,0 +1,6 @@
+BiomeExtends: TaigaHills
+ResourceInheritance: true
+ReplaceToBiomeName: TaigaHills
+BiomeColor: #0b1c19
+BiomeHeight: -3.9
+SmoothRadius: 5

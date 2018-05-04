@@ -1,0 +1,6 @@
+BiomeExtends: Jungle
+ResourceInheritance: true
+ReplaceToBiomeName: Jungle
+BiomeColor: #3a5606
+BiomeHeight: -1.9
+SmoothRadius: 5
